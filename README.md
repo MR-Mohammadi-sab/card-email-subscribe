@@ -1,4 +1,4 @@
-# Clipboard Website
+# Cart Email subscribe
 ### made with Tailwind CSS & HTML
 
 Deployment Link 👇
